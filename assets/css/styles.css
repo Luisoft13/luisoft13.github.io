@@ -518,15 +518,19 @@ h2{
         font-size: 18px;
     }
     .content-description {
-        font-size: 18px;
+        font-size: 17px;
     }
     .content-image_servicios {
         height: 250px;
-        width: 100%;
+        width: 85%;
     }
     .content-collaspe {
         padding-left: 0px;
         padding-right: 0px;
+    }
+    .content-title-servicio {
+        font-size: 40px !important;
+        margin-bottom: 0px !important;
     }
 }
 
