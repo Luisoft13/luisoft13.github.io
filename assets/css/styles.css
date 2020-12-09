@@ -340,7 +340,7 @@ footer a:hover {
 #whatsapp a {
     background: none;
     position: fixed;
-    top: 80%;
+    top: 85%;
     right: 1%;
 }
 /*Slider*/
@@ -516,6 +516,17 @@ h2{
     }
     .content-text-vision-mision {
         font-size: 18px;
+    }
+    .content-description {
+        font-size: 18px;
+    }
+    .content-image_servicios {
+        height: 250px;
+        width: 100%;
+    }
+    .content-collaspe {
+        padding-left: 0px;
+        padding-right: 0px;
     }
 }
 
