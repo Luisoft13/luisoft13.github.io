@@ -109,16 +109,13 @@ section { padding: 120px 0; }
     height: 2px;
     max-width: 200px;
     padding: 0;
-    margin: 20px 5px 0 auto;
     text-align: center;
 }
 .linea-3 {
     border-top: 3px solid white;
     height: 2px;
-    max-width: 200px;
+    max-width: 250px;
     padding: 0;
-    margin: 20px 5px 0 auto;
-    text-align: left;
 }
 .content-servicios_title {
     font-size: 70px;
