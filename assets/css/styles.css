@@ -473,7 +473,7 @@ h2{
 
 @media (max-width: 768px) {
     h1 { font-size: 30px; line-height: normal; }
-    h2 {font-size:50px}
+    h2 {font-size:50px !important; align-items: center !important;}
     .navbar-nav {
         line-height: 50px;
         align-items: center;
